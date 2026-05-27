@@ -1,7 +1,7 @@
 # Hey, I'm Jack 👋
 
 I build things and I build my body. Most of my time goes into
-**PRJ FIT**, a sports tech project. [Stoata](https://stoata.com),
+[Strive](https://strivevelocity.com), a sports tech project. [Stoata](https://stoata.com),
 my Pokémon TCG shop, runs in the background for fun.
 
 I taught myself to code with small games as a kid, eventually
